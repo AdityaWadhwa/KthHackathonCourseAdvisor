@@ -1,0 +1,74 @@
+{
+"quiz": {
+        "q1": {
+            "question": "At a party do you: ",
+            "answers": [
+                "Interact with many, including strangers",
+                "Interact with a few, known to you"
+            ]
+        },
+        "q2": {
+            "question": "Are you more: ",
+            "answers": [
+                "Realistic than speculative",
+                "Speculative than realistic"
+            ]
+        },
+        "q3": {
+            "question": "Is it worse to: ",
+            "answers": [
+                "Have your 'head in the clouds'",
+                "Be 'in a rut'"
+            ]
+        },
+        "q4": {
+            "question": "Are you more impressed by: ",
+            "answers": [
+                "Principles",
+                "Emotions"
+            ]
+        },
+        "q5": {
+            "question": "Are more drawn toward the: ",
+            "answers": [
+                "Convincing",
+                "Touching"
+            ]
+        },
+        "q6": {
+            "question": "Do you prefer to work: ",
+            "answers": [
+                "To deadlines",
+                "Just 'whenever'"
+            ]
+        },
+        "q7": {
+            "question": "Do you tend to choose: ",
+            "answers": [
+                "Rather carefully",
+                "Somewhat impulsively"
+            ]
+        },
+        "q8": {
+            "question": "At parties do you: ",
+            "answers": [
+                "Stay late, with increasing energy",
+                "Leave early with decreased energy"
+            ]
+        },
+        "q9": {
+            "question": "Are you more attracted to: ",
+            "answers": [
+                "Sensible people",
+                "Imaginative people"
+            ]
+        },
+        "q10": {
+            "question": "Are you more interested in: ",
+            "answers": [
+                "What is actual",
+                "What is possible"
+            ]
+        }
+    }
+}
